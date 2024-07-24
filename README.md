@@ -3,6 +3,9 @@
 - 👀 I’m interested in
 - Data analysis and visualization
 - Business intelligence and data-driven decision making
+- Artificial Intelligence
+- Tech consulting
+- Tech sales
 
 - 🌱 I’m currently learning
 - Advanced Python for data analysis
