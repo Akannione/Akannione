@@ -17,7 +17,7 @@ My strongest lane is the overlap between business operations, computer informati
 | --- | --- | --- |
 | [Business Operations Reporting System](https://github.com/Akannione/business-operations-reporting-system) | Cleans messy service-operations data, creates KPI fields, analyzes bottlenecks, and produces management-ready dashboards | Python, SQL, SQLite, Excel, dashboard reporting |
 | [CRM Sales Pipeline Automation System](https://github.com/Akannione/crm-sales-pipeline-automation-system) | Turns messy CRM lead data into a scored pipeline, follow-up queue, sales-rep performance views, and executive summary | Python, SQL, CRM analytics, sales operations |
-| [AI Signal Routine](https://github.com/Akannione/AI-Signal-Routine-) | Monitors AI/tooling signals, ranks what matters, generates decision briefs, and creates mini-project ideas | Python, Streamlit, automation, AI operations |
+| [AI Signal Routine](https://github.com/Akannione/ai-signal-routine) | Monitors AI/tooling signals, ranks what matters, generates decision briefs, and creates mini-project ideas | Python, Streamlit, automation, AI operations |
 | [AlignDeskApp Demo](https://github.com/Akannione/aligndeskapp-demo) | Static product validation demo for a chiropractic documentation workflow, built to test value before building a full SaaS product | HTML, CSS, JavaScript, workflow design |
 
 ## How I Work
