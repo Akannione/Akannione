@@ -40,4 +40,4 @@ Python, SQL, SQLite, Excel, Streamlit, HTML/CSS/JavaScript, Git/GitHub, API work
 
 ## Contact
 
-LinkedIn: [tobiloba-oniyide](https://www.linkedin.com/in/tobiloba-oniyide)
+LinkedIn: https://www.linkedin.com/in/tobi-oniyide/
